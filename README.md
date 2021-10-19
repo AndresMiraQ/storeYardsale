@@ -1,2 +1,2 @@
 # storeYardsale
-Project of a store   yard sale
+Project of a store yardsale
